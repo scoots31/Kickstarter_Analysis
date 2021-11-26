@@ -25,6 +25,20 @@ To better illustrate this point, we created a chart called Theater Outcomes Base
 
 ### Analysis of Outcomes Based on Goals
 
+The second factor we wanted to analyze was the how the amount of the campaign goal correlated to how successful the campaign turned out. We decided to organize the dollar amounts starting with anything a $1,000 or less then range of $5,000 increments. It would require us to write a lengthy excel formula to address those ranges but also the other criteria needed to filter to get to the pertinent data. Here is the formula we used:
+
+```
+=COUNTIFS(Kickstarter!D$84:D$4108,">=1000",Kickstarter!D$84:D$4108,"<5000",Kickstarter!F$84:F$4108,"successful",Kickstarter!P$84:P$4108,"plays")
+```
+Utilizing the COUNTIFS function in excel, we were able to group the data by the ranges we wanted and the also filter the data by the criteria of what was 'successful' and subcategory type of 'plays'.
+
+We continued to analyze the data further by determing the percentages successful and failed. Below is the data organized from our formulas:
+
+![Screen Shot 2021-11-26 at 12 59 48 PM](https://user-images.githubusercontent.com/93485455/143621824-491113d5-0e4b-4482-bbef-b111a4c60c1d.png)
+
+
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
