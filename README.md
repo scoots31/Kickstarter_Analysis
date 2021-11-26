@@ -7,6 +7,8 @@ Louise’s play Fever just missed her Kickstarter fundraising goal of $2,885 by 
 
 ## Analysis and Challenges
 
+### Analysis of Outcomes Based on Launch Date
+
 Looking first at the Creation Date of the Kickstarter campaigns dataset, we compared those time frames and if the campaign achieved its fundraising goal. Using a pivot table, we can quickly filter the data by Parent Category which allows us to look at all Theater projects within the data set. Now we can look at the relation of successful and failed campaigns within the context of the month they were created.
 
 ![image](https://user-images.githubusercontent.com/93485455/143312331-92623ddf-5d1c-4fe7-9f72-3cc18b0921ea.png)
@@ -20,9 +22,6 @@ To better illustrate this point, we created a chart called Theater Outcomes Base
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93485455/143314572-f6355502-136f-4324-b329-bca619a69804.png)
 
 
-
-
-### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
 
