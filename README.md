@@ -36,17 +36,49 @@ We continued to analyze the data further by determing the percentages successful
 
 ![Screen Shot 2021-11-26 at 12 59 48 PM](https://user-images.githubusercontent.com/93485455/143621824-491113d5-0e4b-4482-bbef-b111a4c60c1d.png)
 
+To better illustrate this point, we created a chart called Outcomes Based on Goals.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/93485455/143622437-e1c8f597-bc4b-4b1d-8ef7-5c57713dfaea.png)
 
 
 ### Challenges and Difficulties Encountered
+
+In working with a large data set like the Kickstarter data, the biggest challenge was filtering the data and making sure as we worked through the data that it was understood if the data was filtered or not and if it was filtered properly. A few times the data did not reflect what was expected and it required a review of formuals used to determine the issue.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+From the analysis, our conclusion is that May and June were the best months to run a Kickstarter campaign. May and June had the most Plays campaigns started and ultimately the most succesful ones. While the data did show that the summer months (May - August) had the most campaigns created, based our chart, it clearly demonstrates that there is a trend of campaigns becoming less successful after June as the year progresses.
+
 - What can you conclude about the Outcomes based on Goals?
+
+From the analysis, our conclusion is that campaigns that had goals less than $5,000 were the most successful. Also there were more campaigns launched that had goals under $5,000 as well. 
 
 - What are some limitations of this dataset?
 
+Ideally, it would have been nice to have data that included the last few years as the last year in the dataset was 2017. It would also would have been enlightening to see what type of marketing and advertising that each campaign had. That could be a big factor in the difference of those that succeeded and those that failed within the less than $5,000 goal range.
+
 - What are some other possible tables and/or graphs that we could create?
+
+The deeper analysis with the existing dataset that could be proformed is exploring the length of the successful campaigns. Looking at the filtered data, Plays campaigns that ran exactly 30 days had a greatest amount of success. The chart below shows this point:
+
+![Plays Campaigns in Days](https://user-images.githubusercontent.com/93485455/143642224-86363d52-a374-4546-bc18-bf6422086690.png)
+
+Based off our earlier analysis, the next step we took was looking at Plays campaigns that ran 30 days and had goals that were less than $5,000.
+
+![Screen Shot 2021-11-26 at 2 59 49 PM](https://user-images.githubusercontent.com/93485455/143644258-36ebf19a-9c4a-4d8f-bc18-8e398b066b8c.png)
+
+From this table, we decided to look at the percentage of successful campaigns that ran for exactly 30 days and had goals of less than $5,000.
+
+![Percentage of Plays Outcomes 30 Days](https://user-images.githubusercontent.com/93485455/143646534-71b82723-cb94-49ad-bf8f-98b14398acd6.png)
+
+Within that same dataset, we took a long at the amount of campaigns that ran within the range of exaclty 30 days and less than $5,000.
+
+![Play Campaings Under 5K 30 Days](https://user-images.githubusercontent.com/93485455/143647583-96af4f81-a6c9-4316-9bc0-2368a51a9e68.png)
+
+Lastly, taking this dataset we wanted to look at the idea of launch date, 30 days length, and less than $5,000 with Plays campaigns to see if we can focus in more on the best outcomes that Louise could possibly take into account in her next fundraising effort.
+
+![Plays Under 5K 30 days Launch Date](https://user-images.githubusercontent.com/93485455/143650133-d6cd20a2-df70-4e6c-9c14-1b2fa63cb848.png)
+
+Our recommendation would be based on the data provided that Plays campaigns with Goals of Under $5K of 30 Days in Length Launched in May and June had the most success and would be the best aspects to model in future campaigns.
