@@ -75,10 +75,10 @@ From this table, we decided to look at the percentage of successful campaigns th
 
 Within that same dataset, we took a long at the amount of campaigns that ran within the range of exaclty 30 days and less than $5,000.
 
-![Play Campaings Under 5K 30 Days](https://user-images.githubusercontent.com/93485455/143647583-96af4f81-a6c9-4316-9bc0-2368a51a9e68.png)
+![Screen Shot 2021-11-26 at 7 04 16 PM](https://user-images.githubusercontent.com/93485455/143663449-e1a519a7-13cd-4654-8cf5-114e30bf6116.png)
 
 Lastly, taking this dataset we wanted to look at the idea of launch date, 30 days length, and less than $5,000 with Plays campaigns to see if we can focus in more on the best outcomes that Louise could possibly take into account in her next fundraising effort.
 
-![Plays Under 5K 30 days Launch Date](https://user-images.githubusercontent.com/93485455/143650133-d6cd20a2-df70-4e6c-9c14-1b2fa63cb848.png)
+![Screen Shot 2021-11-26 at 7 05 15 PM](https://user-images.githubusercontent.com/93485455/143663424-fdb74b35-3622-445e-bbfc-3e8609cbabdc.png)
 
 Our recommendation would be based on the data provided that Plays campaigns with Goals of Under $5K of 30 Days in Length Launched in May and June had the most success and would be the best aspects to model in future campaigns.
