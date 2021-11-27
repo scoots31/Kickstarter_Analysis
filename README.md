@@ -15,11 +15,11 @@ Looking first at the Creation Date of the Kickstarter campaigns dataset, we comp
 
 The months that not only had the most campaigns created but also the most successful ones were May and June.
 
-![Screen Shot 2021-11-26 at 7 15 30 PM](https://user-images.githubusercontent.com/93485455/143663655-7ff9f965-9a82-4bb1-8255-f2e944d3940e.png)
+![Screen Shot 2021-11-24 at 3 14 05 PM](https://user-images.githubusercontent.com/93485455/143663705-bb8b7e41-ea5a-4f48-80a8-ecf6887f972b.png)
 
 To better illustrate this point, we created a chart called Theater Outcomes Based on Launch Date.
 
-![Screen Shot 2021-11-26 at 7 13 09 PM](https://user-images.githubusercontent.com/93485455/143663572-083bbb47-0194-4ee3-bb5c-e354ca63e541.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93485455/143663724-37d325a2-33e0-4cc1-9fd8-91a7e1d5b574.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -73,10 +73,10 @@ From this table, we decided to look at the percentage of successful campaigns th
 
 Within that same dataset, we took a long at the amount of campaigns that ran within the range of exaclty 30 days and less than $5,000.
 
-![Screen Shot 2021-11-26 at 7 04 16 PM](https://user-images.githubusercontent.com/93485455/143663449-e1a519a7-13cd-4654-8cf5-114e30bf6116.png)
+![Screen Shot 2021-11-26 at 7 15 30 PM](https://user-images.githubusercontent.com/93485455/143663743-948894c1-b9a6-41b1-ab67-91f88c7bf425.png)
 
 Lastly, taking this dataset we wanted to look at the idea of launch date, 30 days length, and less than $5,000 with Plays campaigns to see if we can focus in more on the best outcomes that Louise could possibly take into account in her next fundraising effort.
 
-![Screen Shot 2021-11-26 at 7 05 15 PM](https://user-images.githubusercontent.com/93485455/143663424-fdb74b35-3622-445e-bbfc-3e8609cbabdc.png)
+![Screen Shot 2021-11-26 at 7 13 09 PM](https://user-images.githubusercontent.com/93485455/143663739-2f0fd5cc-5442-4748-a97a-6755f3f006d8.png)
 
 Our recommendation would be based on the data provided that Plays campaigns with Goals of Under $5K of 30 Days in Length Launched in May and June had the most success and would be the best aspects to model in future campaigns.
