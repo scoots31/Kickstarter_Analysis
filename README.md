@@ -15,13 +15,11 @@ Looking first at the Creation Date of the Kickstarter campaigns dataset, we comp
 
 The months that not only had the most campaigns created but also the most successful ones were May and June.
 
-![Screen Shot 2021-11-24 at 3 14 40 PM](https://user-images.githubusercontent.com/93485455/143313708-715b166d-ace5-4f85-bdef-337b94e95e90.png)
+![Screen Shot 2021-11-26 at 7 15 30 PM](https://user-images.githubusercontent.com/93485455/143663655-7ff9f965-9a82-4bb1-8255-f2e944d3940e.png)
 
 To better illustrate this point, we created a chart called Theater Outcomes Based on Launch Date.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/93485455/143314572-f6355502-136f-4324-b329-bca619a69804.png)
-
-
+![Screen Shot 2021-11-26 at 7 13 09 PM](https://user-images.githubusercontent.com/93485455/143663572-083bbb47-0194-4ee3-bb5c-e354ca63e541.png)
 
 ### Analysis of Outcomes Based on Goals
 
