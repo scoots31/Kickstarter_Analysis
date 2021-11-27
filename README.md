@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Click here to view the Excel file: (Kickstarter_Challenge.xlsx)
+Click here to view the Excel file: (https://github.com/scoots31/kickstarter_analysis/blob/main/Kickstarter_Challenge.xlsx)
 
 ### Purpose
 Louise’s play Fever just missed her Kickstarter fundraising goal of $2,885 by only $400. She ran her campaign for 28 days between June and July. Now Louise would like to know how other campaigns faired based on their goals and launch date. In our analysis of the Kickstarter data, we will take a deeper look at Theater campaigns and determine what factors such as the time of the year that a campaign is executed, and the amount of campaign goal played in successful Kickstarter campaigns. Our goal is to provide Louise with better insights to apply to her next Kickstarter campaign in an effort to be successful in future fundraising efforts.
